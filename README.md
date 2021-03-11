@@ -1,4 +1,4 @@
-# Russian to Engligh Nerual Machine Translation
+# Russian to English Nerual Machine Translation
 
 
 ## Team
