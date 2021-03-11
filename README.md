@@ -9,3 +9,6 @@
 
 
 ## Repo Structure
+
+- experiments/ # Notebooks with expreiments with different models
+- report.pdf # Final report of our work
